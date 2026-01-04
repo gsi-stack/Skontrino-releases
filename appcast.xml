@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <item>
+      <title>Version 1.0.0+8</title>
+      <description>Update for version 1.0.0+8</description>
+      <pubDate>Sun, 04 Jan 2026 10:38:04 GMT</pubDate>
+      <enclosure url="https://github.com/gsi-stack/Skontrino-releases/releases/download/v1.0.0+8/Skontrino_Setup.exe"
+                 sparkle:version="1.0.0.8"
+                 sparkle:os="windows"
+                 sparkle:dsaSignature="77u/"
+                 length="22442215"
+                 type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 1.0.0+7</title>
+      <description>Update for version 1.0.0+7</description>
+      <pubDate>Sun, 04 Jan 2026 10:05:39 GMT</pubDate>
+      <enclosure url="https://github.com/gsi-stack/Retelio/releases/download/v1.0.0+7/Skontrino_Setup.exe"
+                 sparkle:version="1.0.0.7"
+                 sparkle:os="windows"
+                 sparkle:dsaSignature="77u/"
+                 length="22440331"
+                 type="application/octet-stream" />
+    </item>
+    <title>Skontrino Changelog</title>
+    <item>
+      <title>Version 1.0.0</title>
+      <description>Update for version 1.0.0</description>
+      <pubDate>Sat, 03 Jan 2026 23:05:22 GMT</pubDate>
+      <enclosure url="https://github.com/gsi-stack/Retelio/releases/download/v1.0.0/Skontrino_Setup.exe"
+                 sparkle:version="1.0.0"
+                 sparkle:os="windows"
+                 sparkle:dsaSignature="MDwCHA2Iv3L67U89E3JXfN7GYSsjFcSRt8Py1uo5JycCHDJGGbTKuYIRDKMY+lZW0BR1eT1bhldAUTYlSvY="
+                 length="39068719"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
+
+
