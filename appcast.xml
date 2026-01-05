@@ -5,7 +5,7 @@
       <title>Version 1.0.0+21</title>
       <description>Update for version 1.0.0+21</description>
       <pubDate>Mon, 05 Jan 2026 13:59:33 GMT</pubDate>
-      <enclosure url="https://github.com/gsi-stack/Skontrino-releases/releases/download/v1.0.0%2B21/Skontrino_Setup.exe"
+      <enclosure url="https://github.com/gsi-stack/Skontrino-releases/releases/download/v1.0.1%2B21/Skontrino_Setup.exe"
                  sparkle:version="1.0.0.21"
                  sparkle:os="windows"
                  sparkle:dsaSignature="MD0CHEfRCYXlDCRDj3o1Y3PzyIwGKWo8Q16a05lb4GkCHQCAUF4n6AivxKIAAxkmixyEZPP2Ef2/CclTM/W5"
