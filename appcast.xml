@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
-      <title>Version 1.0.0+35</title>
-      <description>Update for version 1.0.0+35</description>
-      <pubDate>Thu, 15 Jan 2026 20:53:43 GMT</pubDate>
-      <enclosure url="https://github.com/gsi-stack/Skontrino-releases/releases/download/v1.0.0%2B35/Skontrino_Setup.exe"
-                 sparkle:version="1.0.0.35"
+      <title>Version 1.0.0+36</title>
+      <description>Update for version 1.0.0+36</description>
+      <pubDate>Fri, 16 Jan 2026 11:53:04 GMT</pubDate>
+      <enclosure url="https://github.com/gsi-stack/Skontrino-releases/releases/download/v1.0.0%2B36/Skontrino_Setup.exe"
+                 sparkle:version="1.0.0.36"
                  sparkle:os="windows"
-                 sparkle:dsaSignature="MD4CHQCRGd/9elYoURldjjjeJD7okrtrynnWrOUMBTStAh0AgFOgZyTBCR5kutRvGHRBYvPNVOI4jsiMQ3RUeA=="
-                 length="47629661"
+                 sparkle:dsaSignature="MDwCHExDYoijEVBYMvQLz/eBGVP2Fu9Hht5jxS/0UXwCHEqJCVd71vHIxgvCsAApJ2IS+lbkbemTG3+QGys="
+                 length="52679921"
                  type="application/octet-stream" />
     </item>
     <item>
